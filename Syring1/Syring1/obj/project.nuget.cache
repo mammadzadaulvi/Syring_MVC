@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T0ROOuZNR6LG7d70SLDg16iZGli8Lf8F1X1PFrD8bOfBnGKCSFDJ4Dmc+NO9OrtKEr3XrjGhD9cICYyrBn0I1A==",
+  "dgSpecHash": "3nWPXUddi9AiJam01/9x4sRN3hXMUM2V7I4vYd8XBXghAJrNdPZ8FkYNb9Hmv2KCvXieF4PH37YLzDJ/Iiivsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Syring1\\Syring1\\Syring1.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Syring_MVC\\Syring1\\Syring1\\Syring1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.9\\microsoft.aspnetcore.cryptography.internal.6.0.9.nupkg.sha512",

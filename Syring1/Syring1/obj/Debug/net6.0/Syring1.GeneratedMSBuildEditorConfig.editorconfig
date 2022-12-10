@@ -8,341 +8,341 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Syring1
 build_property.RootNamespace = Syring1
-build_property.ProjectDir = C:\Users\user\Desktop\Syring1\Syring1\
+build_property.ProjectDir = C:\Users\user\Desktop\Syring_MVC\Syring1\Syring1\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\Syring1\Syring1
+build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\Syring_MVC\Syring1\Syring1
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/About/Create.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/About/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/About/Details.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/About/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/About/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/About/Update.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/About/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/About/UpdatePhoto.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/About/UpdatePhoto.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRcVXBkYXRlUGhvdG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/Account/Login.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/Dashboard/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/Doctor/Create.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/Doctor/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRG9jdG9yXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/Doctor/Details.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/Doctor/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRG9jdG9yXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/Doctor/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/Doctor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRG9jdG9yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/Doctor/Update.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/Doctor/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRG9jdG9yXFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/FaqCategory/Create.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/FaqCategory/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFxQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/FaqCategory/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/FaqCategory/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFxQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/FaqCategory/Update.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/FaqCategory/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFxQ2F0ZWdvcnlcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/FaqQuestion/Create.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/FaqQuestion/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFxUXVlc3Rpb25cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/FaqQuestion/Details.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/FaqQuestion/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFxUXVlc3Rpb25cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/FaqQuestion/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/FaqQuestion/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFxUXVlc3Rpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/FaqQuestion/Update.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/FaqQuestion/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFxUXVlc3Rpb25cVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/HomeCoverVideo/Create.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/HomeCoverVideo/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUNvdmVyVmlkZW9cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/HomeCoverVideo/Details.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/HomeCoverVideo/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUNvdmVyVmlkZW9cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/HomeCoverVideo/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/HomeCoverVideo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUNvdmVyVmlkZW9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/HomeCoverVideo/Update.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/HomeCoverVideo/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUNvdmVyVmlkZW9cVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/HomeDepartment/Create.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/HomeDepartment/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZURlcGFydG1lbnRcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/HomeDepartment/Details.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/HomeDepartment/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZURlcGFydG1lbnRcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/HomeDepartment/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/HomeDepartment/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZURlcGFydG1lbnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/HomeDepartment/Update.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/HomeDepartment/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZURlcGFydG1lbnRcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/HomeMainSlider/Create.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/HomeMainSlider/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZU1haW5TbGlkZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/HomeMainSlider/Details.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/HomeMainSlider/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZU1haW5TbGlkZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/HomeMainSlider/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/HomeMainSlider/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZU1haW5TbGlkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/HomeMainSlider/Update.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/HomeMainSlider/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZU1haW5TbGlkZXJcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/HomeMainSlider/UpdatePhoto.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/HomeMainSlider/UpdatePhoto.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZU1haW5TbGlkZXJcVXBkYXRlUGhvdG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/HomeMedicalCenter/Create.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/HomeMedicalCenter/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZU1lZGljYWxDZW50ZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/HomeMedicalCenter/Details.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/HomeMedicalCenter/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZU1lZGljYWxDZW50ZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/HomeMedicalCenter/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/HomeMedicalCenter/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZU1lZGljYWxDZW50ZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/HomeMedicalCenter/Update.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/HomeMedicalCenter/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZU1lZGljYWxDZW50ZXJcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/LastestNew/Create.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/LastestNew/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTGFzdGVzdE5ld1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/LastestNew/Details.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/LastestNew/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTGFzdGVzdE5ld1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/LastestNew/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/LastestNew/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTGFzdGVzdE5ld1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/LastestNew/Update.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/LastestNew/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTGFzdGVzdE5ld1xVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/MedicalDepartment/Create.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/MedicalDepartment/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVkaWNhbERlcGFydG1lbnRcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/MedicalDepartment/Details.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/MedicalDepartment/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVkaWNhbERlcGFydG1lbnRcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/MedicalDepartment/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/MedicalDepartment/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVkaWNhbERlcGFydG1lbnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/MedicalDepartment/Update.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/MedicalDepartment/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVkaWNhbERlcGFydG1lbnRcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/OurVision/Create.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/OurVision/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3VyVmlzaW9uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/OurVision/Details.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/OurVision/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3VyVmlzaW9uXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/OurVision/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/OurVision/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3VyVmlzaW9uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/OurVision/Update.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/OurVision/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3VyVmlzaW9uXFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/PricingPlan/Create.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/PricingPlan/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJpY2luZ1BsYW5cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/PricingPlan/Details.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/PricingPlan/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJpY2luZ1BsYW5cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/PricingPlan/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/PricingPlan/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJpY2luZ1BsYW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/PricingPlan/Update.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/PricingPlan/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJpY2luZ1BsYW5cVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/ProDoctor/Create.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/ProDoctor/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvRG9jdG9yXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/ProDoctor/Details.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/ProDoctor/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvRG9jdG9yXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/ProDoctor/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/ProDoctor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvRG9jdG9yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/ProDoctor/Update.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/ProDoctor/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvRG9jdG9yXFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/ProductCategory/Create.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/ProductCategory/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdENhdGVnb3J5XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/ProductCategory/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/ProductCategory/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdENhdGVnb3J5XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/ProductCategory/Update.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/ProductCategory/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdENhdGVnb3J5XFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/Product/Create.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/Product/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/Product/Update.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/Product/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/Shared/_Layout.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Views/Account/Login.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Views/Account/Register.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Views/Basket/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Views/Basket/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFza2V0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Views/Department/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Views/Department/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Views/Doctor/Details.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Views/Doctor/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Views/Doctor/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Views/Doctor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Views/Faq/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Views/Faq/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFxXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Views/Home/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Views/Pricing/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Views/Pricing/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2luZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Views/Shared/Components/Footer/Default.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Views/Shared/Components/Footer/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9vdGVyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Views/Shared/Components/Header/Default.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Views/Shared/Components/Header/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVhZGVyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Views/Shared/_Layout.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Views/Shared/_ProductPartial.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Views/Shared/_ProductPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0UGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Views/Shared/_QuestionPartial.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Views/Shared/_QuestionPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9RdWVzdGlvblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Views/Shop/Index.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Views/Shop/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Views/_ViewImports.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Syring1/Syring1/Views/_ViewStart.cshtml]
+[C:/Users/user/Desktop/Syring_MVC/Syring1/Syring1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
