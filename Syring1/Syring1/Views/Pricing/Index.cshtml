@@ -1,0 +1,90 @@
+﻿@using Syring1.ViewModels.Pricing
+@model PricingIndexViewModel
+
+
+<!--main starts -->
+<main>
+    <!-- main-frame section starts -->
+    <section class="main-frame no-select" style="background-image: url(assets/images/main-frame-photo.jpg);">
+        <div class="main-frame-title">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-md-12">
+                        <div class="main-frame-title-text">
+                            Pricings
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="main-frame-breadcrumb">
+                            Home / Pricings
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- main-frame section ends -->
+    <!-- pricings section starts -->
+    <section class="pricings no-select">
+        <div class="container">
+            <div class="pricing-top text-center" data-aos="fade-down" data-aos-duration="1500">
+                <p class="sub-heading">PRICING AND PLAN</p>
+                <h2 class="heading">A monthly fee. No costly surprises</h2>
+            </div>
+            <div class="pricing-slider" data-aos="fade-up" data-aos-duration="1500">
+
+                @foreach (var pricingPlan in Model.PricingPlans)
+                {
+                    @if (pricingPlan.Status.ToString() == "Actice")
+                    {
+                        <div class="pricing-slider-element active-price">
+                            <div class="slider-element-wrapper">
+                                <h4 class="title-pricing">@pricingPlan.Title</h4>
+                                <p class="subtitle-pricing">@pricingPlan.Description</p>
+                                <div class="price">
+                                    <span class="unitprice">$</span>
+                                    <span class="price-value">@pricingPlan.Price</span>
+                                    <span class="per">/ per month</span>
+                                </div>
+                                <ul class="features">
+                                    <li>
+                                        <i class="fas fa-check"></i>
+                                        <span>@Html.Raw(pricingPlan.Skill)</span>
+                                    </li>
+                                    
+                                </ul>
+                                <div class="get-started">Get Started</div>
+                            </div>
+                        </div>
+                    }
+
+                    else
+                    {
+                        <div class="pricing-slider-element">
+                            <div class="slider-element-wrapper">
+                                <h4 class="title-pricing">@pricingPlan.Title</h4>
+                                <p class="subtitle-pricing">@pricingPlan.Description</p>
+                                <div class="price">
+                                    <span class="unitprice">$</span>
+                                    <span class="price-value">@pricingPlan.Price</span>
+                                    <span class="per">/ per month</span>
+                                </div>
+                                <ul class="features">
+                                    <li>
+                                        <i class="fas fa-check"></i>
+                                        <span>@Html.Raw(pricingPlan.Skill)</span>
+                                    </li>
+
+                                </ul>
+                                <div class="get-started">Get Started</div>
+                            </div>
+                        </div>
+
+                    }
+                }
+            </div>
+        </div>
+    </section>
+    <!-- pricings section ends -->
+</main>
+<!--main ends -->

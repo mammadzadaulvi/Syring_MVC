@@ -1,0 +1,109 @@
+﻿@using Syring1.Areas.Admin.ViewModels.Doctor
+@model DoctorUpdateViewModel
+
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+
+                        <p class="card-description">
+                            Update Doctor
+                        </p>
+                        <form enctype="multipart/form-data" method="post" asp-action="update" asp-controller="doctor" asp-area="admin" class="forms-sample">
+                            
+                            <div class="form-group">
+                                <label asp-for="FullName">FullName</label>
+                                <input class="form-control" asp-for="FullName">
+                                <span asp-validation-for="FullName"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Position">Position</label>
+                                <textarea class="form-control" asp-for="Position"></textarea>
+                                <span asp-validation-for="Position"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Qualification">Qualification</label>
+                                <input class="form-control" asp-for="Qualification">
+                                <span asp-validation-for="Qualification"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="ContactPhone">ContactPhone</label>
+                                <textarea class="form-control" asp-for="ContactPhone"></textarea>
+                                <span asp-validation-for="ContactPhone"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="ContactEmail">ContactEmail</label>
+                                <input class="form-control" asp-for="ContactEmail">
+                                <span asp-validation-for="ContactEmail"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="WorkingDay">WorkingDay</label>
+                                <textarea class="form-control" asp-for="WorkingDay"></textarea>
+                                <span asp-validation-for="WorkingDay"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="WorkingHour">WorkingHour</label>
+                                <input class="form-control" asp-for="WorkingHour">
+                                <span asp-validation-for="WorkingHour"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Title">Title</label>
+                                <textarea class="form-control" asp-for="Title"></textarea>
+                                <span asp-validation-for="Title"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Description">Description</label>
+                                <textarea class="form-control" asp-for="Description"></textarea>
+                                <span asp-validation-for="Description"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="SubDescription">SubDescription</label>
+                                <textarea class="form-control" asp-for="SubDescription"></textarea>
+                                <span asp-validation-for="SubDescription"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Skill">Skill</label>
+                                <textarea class="form-control" asp-for="Skill"></textarea>
+                                <span asp-validation-for="Skill"></span>
+                            </div>
+
+
+                            <div class="form-group">
+                                <label asp-for="Photo">Photo</label>
+                                <input class="form-control" asp-for="Photo">
+                                <span asp-validation-for="Photo"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="CoverPhoto">CoverPhoto</label>
+                                <input class="form-control" asp-for="CoverPhoto">
+                                <span asp-validation-for="CoverPhoto"></span>
+                            </div>
+
+                            <button type="submit" class="btn btn-primary me-2">Submit</button>
+                            <a class="btn btn-danger" asp-action="index" asp-controller="doctor" asp-area="admin"> Cancel</a>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts{
+
+    <script src="https://cdn.ckeditor.com/ckeditor5/35.2.1/classic/ckeditor.js"></script>
+    <script>
+        ClassicEditor
+            .create(document.querySelector('#Skill'))
+            .then(editor => {
+                console.log(editor);
+            })
+            .catch(error => {
+                console.error(error);
+            });
+    </script>
+}

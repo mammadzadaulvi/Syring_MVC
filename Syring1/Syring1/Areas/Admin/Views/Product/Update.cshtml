@@ -1,0 +1,50 @@
+﻿@using Syring1.Areas.Admin.ViewModels.Product
+@model ProductUpdateViewModel
+
+
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+
+                        <p class="card-description">
+                            Update Product
+                        </p>
+                        <form enctype="multipart/form-data" method="post" asp-action="update" asp-controller="product" asp-area="admin" class="forms-sample">
+                            
+                            <div class="form-group">
+                                <label asp-for="Title">Title</label>
+                                <input class="form-control" asp-for="Title">
+                                <span asp-validation-for="Title"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Price">Price</label>
+                                <input class="form-control" asp-for="Price">
+                                <span asp-validation-for="Price"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="CategoryId">Category</label>
+                                <select class="form-select" asp-for="CategoryId" asp-items="Model.Categories"></select>
+                                <span asp-validation-for="CategoryId"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="MainPhoto.FileName">MainPhoto</label>
+                                <input class="form-control" asp-for="MainPhoto">
+                                <span asp-validation-for="MainPhoto"></span>
+                            </div>
+
+                            <div>
+                                <input type="hidden" asp-for="MainPhotoPath" value="MainPhoto.FileName" />
+                            </div>
+
+                            <button type="submit" class="btn btn-primary me-2">Submit</button>
+                            <a class="btn btn-danger" asp-action="index" asp-controller="product" asp-area="admin"> Cancel</a>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

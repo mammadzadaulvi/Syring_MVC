@@ -1,0 +1,30 @@
+﻿@using Syring1.Areas.Admin.ViewModels.HomeCoverVideo
+@model HomeCoverVideoDetailsViewModel
+
+
+<div class="col-lg-12 grid-margin ">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title"> Home Cover Video Details</h4>
+        </div>
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Url</th>
+                        <th>Photo</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>@Model.Id</td>
+                        <td>@Model.Url</td>
+                        <td><img src="~/assets/img/@Model.CoverPhoto" /></td>
+                    </tr>
+                </tbody>
+            </table>
+            <a asp-action="index" asp-controller="homecovervideo" class="btn btn-info">Cancel</a>
+        </div>
+    </div>
+</div>

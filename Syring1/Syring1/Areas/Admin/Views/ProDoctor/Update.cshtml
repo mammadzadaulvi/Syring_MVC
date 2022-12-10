@@ -1,0 +1,64 @@
+﻿@using Syring1.Areas.Admin.ViewModels.ProDoctor
+@using static Syring1.Models.ProDoctor
+@model ProDoctorUpdateViewModel
+
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+
+                        <p class="card-description">
+                            Update Home Doctor
+                        </p>
+                        <form enctype="multipart/form-data" method="post" asp-action="update" asp-controller="prodoctor" asp-area="admin" class="forms-sample">
+                            <div class="form-group">
+                                <label asp-for="FullName">FullName</label>
+                                <input class="form-control" asp-for="FullName">
+                                <span asp-validation-for="FullName"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Icon">Icon</label>
+                                <textarea class="form-control" asp-for="Icon"></textarea>
+                                <span asp-validation-for="Icon"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Status"></label>
+                                <select asp-for="@Model.Status" asp-items="Html.GetEnumSelectList<DoctorStatus>()"></select>
+                                <span asp-validation-for="Status"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="Photo">Photo</label>
+                                <input class="form-control" asp-for="Photo">
+                                <span asp-validation-for="Photo"></span>
+                            </div>
+
+                            <button type="submit" class="btn btn-primary me-2">Submit</button>
+                            <a class="btn btn-danger" asp-action="index" asp-controller="prodoctor" asp-area="admin"> Cancel</a>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+@section Scripts{
+
+    <script src="https://cdn.ckeditor.com/ckeditor5/35.2.1/classic/ckeditor.js"></script>
+    <script>
+        ClassicEditor
+            .create(document.querySelector('#Icon'))
+            .then(editor => {
+                console.log(editor);
+            })
+            .catch(error => {
+                console.error(error);
+            });
+    </script>
+}

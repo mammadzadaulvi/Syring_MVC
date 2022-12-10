@@ -1,0 +1,75 @@
+﻿@using Syring1.ViewModels.Faq
+@model FaqIndexViewModel
+
+
+<!-- main starts -->
+<main>
+    <!-- main-frame section starts -->
+    <section class="main-frame no-select" style="background-image: url(~/assets/images/main-frame-photo.jpg);">
+        <div class="main-frame-title">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-md-12">
+                        <div class="main-frame-title-text">
+                            Frequent Asked Questions
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="main-frame-breadcrumb">
+                            Home / FAQ
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- main-frame section ends -->
+    <!-- questions section starts -->
+    <section class="questions no-select">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-lg-4">
+                    <div class="questions-tabs"  data-aos="fade-up" data-aos-duration="2000">
+
+                        @foreach (var faqCategory in Model.FaqCategories)
+                        {
+                            <div class="tab active-tab" id="category" data-id="@faqCategory.Id">
+                                <h5 class="tab-title">@faqCategory.Title</h5>
+                                <p class="tab-text">
+                                    @Html.Raw(faqCategory.Description)
+                                </p>
+                            </div>
+
+                        }
+
+                    </div>
+                </div>
+                <div class="col-sm-12 col-lg-8">
+                    <div class="questions-content" data-aos="fade-up" data-aos-duration="2000">
+                        <div class="question" >
+                            <ul id="accordion" class="Newquestion">
+
+                                @foreach (var faqQuestion in Model.FaqQuestions)
+                                {
+
+                                    <li data-aos="fade-up" data-aos-duration="2000">
+                                        <span>
+                                            @faqQuestion.Title
+                                        </span>
+                                        <div>
+                                            @Html.Raw(faqQuestion.Description)
+                                        </div>
+                                    </li>
+                                }
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- questions section ends -->
+
+</main>
+<!-- main ends -->

@@ -1,0 +1,18 @@
+﻿@*@using Syring1.ViewModels.Faq
+@model FaqIndexViewModel*@
+
+@using Syring1.Models
+@model List<FaqQuestion>
+
+
+@foreach (var faqQuestion in Model)
+{
+    <li data-aos="fade-up" data-aos-duration="2000">
+        <span>
+            @faqQuestion.Title
+        </span>
+        <div>
+            @Html.Raw(faqQuestion.Description)
+        </div>
+    </li>
+}

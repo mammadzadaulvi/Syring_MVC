@@ -1,0 +1,34 @@
+﻿@using Syring1.Areas.Admin.ViewModels.LastestNew
+@model LastestNewDetailsViewModel
+
+
+<div class="col-lg-12 grid-margin ">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title"> News Details</h4>
+        </div>
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Title</th>
+                        <th>Topic</th>
+                        <th>DateTime</th>
+                        <th>Photo</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>@Model.Id</td>
+                        <td>@Model.Title</td>
+                        <td>@Model.Topic</td>
+                        <td>@Model.CreatedDate</td>
+                        <td><img src="~/assets/img/@Model.PhotoPath" /></td>
+                    </tr>
+                </tbody>
+            </table>
+            <a asp-action="index" asp-controller="lastestNew" class="btn btn-info">Cancel</a>
+        </div>
+    </div>
+</div>

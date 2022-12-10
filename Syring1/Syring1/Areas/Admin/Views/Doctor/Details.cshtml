@@ -1,0 +1,52 @@
+﻿@using Syring1.Areas.Admin.ViewModels.Doctor
+@model DoctorDetailsViewModel
+
+
+<div class="col-lg-12 grid-margin ">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title"> Doctor Details</h4>
+        </div>
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>FullName</th>
+                        <th>Position</th>
+                        <th>Qualification</th>
+                        <th>ContactPhone</th>
+                        <th>ContactEmail</th>
+                        <th>WorkingDay</th>
+                        <th>WorkingHour</th>
+                        <th>Title</th>
+                        <th>Description</th>
+                        <th>SubDescription</th>
+                        <th>Skill</th>
+                        <th>Photo</th>
+                        <th>CoverPhoto</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>@Model.Id</td>
+                        <td>@Model.FullName</td>
+                        <td>@Model.Position</td>
+                        <td>@Model.Qualification</td>
+                        <td>@Model.ContactPhone</td>
+                        <td>@Model.ContactEmail</td>
+                        <td>@Model.WorkingDay</td>
+                        <td>@Model.WorkingHour</td>
+                        <td>@Model.Title</td>
+                        <td>@Model.Description</td>
+                        <td>@Model.SubDescription</td>
+                        <td>@Model.Skill</td>
+                        <td><img src="~/assets/img/@Model.PhotoPath" /></td>
+                        <td><img src="~/assets/img/@Model.CoverPhotoPath" /></td>
+                    </tr>
+                </tbody>
+            </table>
+            <a asp-action="index" asp-controller="doctor" class="btn btn-info">Cancel</a>
+        </div>
+    </div>
+</div>
